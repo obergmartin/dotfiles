@@ -1,0 +1,4 @@
+[url "https://github.com/"]
+        insteadOf = gh:
+[url "git@github.com:obergmartin/"]
+        insteadOf = my:
